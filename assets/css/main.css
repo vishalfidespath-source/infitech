@@ -13747,7 +13747,7 @@ span {
   border-radius: 8px;
 }
 .global-service-box .global-content {
-  flex-basis: 20%;
+  flex-basis: 29%;
   position: relative;
   z-index: 9;
 }
@@ -14065,7 +14065,7 @@ span {
   transition: all 0.4s ease-in-out;
 }
 .service-details-wrapper .service-details-content .service-box-area .service-box-items .content h3 {
-  font-size: 24px;
+  font-size: 22px;
   margin-top: 0;
 }
 .service-details-wrapper .service-details-content .service-box-area .service-box-items .content p {
